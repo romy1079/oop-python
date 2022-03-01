@@ -8,6 +8,7 @@ class Position:
             raise ValueError (f"longitude { longitude} out of range")
 
         self.latitude = latitude
+        self.lat = lat1
         self.longitude = longitude
 
         @property
@@ -30,8 +31,16 @@ if __name__ != "main":
 else:
     Position(-70, 10)
 
+
 print( position )
 
 
 
 print(orange)
+
+ feature/test-2
+print(apple)
+
+print( position )
+ main
+
