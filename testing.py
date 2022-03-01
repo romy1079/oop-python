@@ -8,7 +8,7 @@ class Position:
             raise ValueError (f"longitude { longitude} out of range")
 
         self.latitude = latitude
-        self.lat = lat
+        self.lat = lat1
         self.longitude = longitude
 
         @property
