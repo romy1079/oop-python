@@ -29,3 +29,5 @@ if __name__ != "main":
     pass
 else:
     Position(-70, 10)
+
+print( position )
