@@ -31,8 +31,16 @@ if __name__ != "main":
 else:
     Position(-70, 10)
 
+
+print( position )
+
+
+
+print(orange)
+
  feature/test-2
 print(apple)
-=======
+
 print( position )
  main
+
